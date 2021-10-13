@@ -1,3 +1,4 @@
 Resolusi Dom :
 - bisa memahami materi oop php
 - bisa mendapatkan pekerjaan dari oop / Framework
+- membiayai kuliah sendiri
