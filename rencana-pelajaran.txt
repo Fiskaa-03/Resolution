@@ -1,0 +1,4 @@
+Rencana pelajaran :
+ - memahami javascript
+ - memahami react js
+ - membuat kalkulator
